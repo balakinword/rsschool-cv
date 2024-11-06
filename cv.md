@@ -1,16 +1,31 @@
 # CV 
 ## Balakin Aleksandr
 ![me](img/me.png)
+
 **Contact information:**
 E-mail: balakinword@mail.ru
 Telegram: @balakin_alex
+Discord: alexanderbalakin
 
 **About me:**
-Краткое представление себя (ваши цели и приоритеты, подчеркните свои сильные стороны, опишите свой опыт работы, если применимо, или ваше желание учиться и приобретать новые навыки)
+Im a human, 28 years
 
 **Skills:**
+Postman, VS Code, HTML, CSS, Markdown
 
 **Code Example:**
-Опыт работы (младшие разработчики могут перечислить образовательные проекты с использованными навыками и ссылками на исходный код)
+```
+function multiply(a, b){
+  a * b
+}
+```
+
+
+**Work exp:**
+junior QA engineer 1 year
+
+**Education:** Tyumen Oil college 
+
+**English:** B2 level
 Образование (включая пройденные курсы и тренинги)
 Английский язык (ваш уровень владения английским языком, и если у вас была языковая практика, опишите ее)
